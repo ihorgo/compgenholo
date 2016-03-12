@@ -1,0 +1,1 @@
+The purpose of this project is to develop software tools for making digital holograms without the need for a laser and photographic recording materials.
